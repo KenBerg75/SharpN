@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>c2554b67-5675-41db-9621-29541031b4b4</ProjectGuid>
+    <ProjectGuid>{1B2D4F40-A61C-47B1-BAF8-E00BDD48AF07}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SharpN.Tests</RootNamespace>
